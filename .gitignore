@@ -1,0 +1,7 @@
+**target/
+.idea/
+**/*.iml
+logs/
+**/*.orig
+**pom.xml.releaseBackup
+**release.properties
